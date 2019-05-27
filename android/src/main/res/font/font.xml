@@ -10,5 +10,5 @@
         android:font="@font/museo_700" />
     <font
         android:fontStyle="normal"
-        android:font="@font/Roboto-Regular" />
+        android:font="@font/roboto_regular" />
 </font-family>
