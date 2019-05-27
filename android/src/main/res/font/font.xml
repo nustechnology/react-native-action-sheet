@@ -8,4 +8,7 @@
         android:fontStyle="normal"
         android:fontWeight="700"
         android:font="@font/museo_700" />
+    <font
+        android:fontStyle="normal"
+        android:font="@font/Roboto-Regular" />
 </font-family>
